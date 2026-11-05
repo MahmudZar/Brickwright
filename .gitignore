@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+*.b64.txt
+.brickwright/
